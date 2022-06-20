@@ -1,14 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1655503077413" clover="3.2.0">
-  <project timestamp="1655503077414" name="All files">
-    <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2" elements="9" coveredelements="9" complexity="0" loc="5" ncloc="5" packages="1" files="1" classes="1"/>
-    <file name="playground.js" path="/home/felipesquall/Desktop/Desktop/13 - Vue Training/job-search/src/playground.js">
-      <metrics statements="5" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="2" coveredmethods="2"/>
-      <line num="30" count="1" type="stmt"/>
-      <line num="31" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="32" count="1" type="stmt"/>
-      <line num="34" count="1" type="stmt"/>
-      <line num="38" count="1" type="stmt"/>
+<coverage generated="1655744658796" clover="3.2.0">
+  <project timestamp="1655744658796" name="All files">
+    <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1" elements="3" coveredelements="3" complexity="0" loc="2" ncloc="2" packages="1" files="1" classes="1"/>
+    <file name="MainNav.vue" path="/home/felipesquall/Desktop/Desktop/13 - Vue Training/job-search/src/components/MainNav.vue">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="14" count="1" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
     </file>
   </project>
 </coverage>
