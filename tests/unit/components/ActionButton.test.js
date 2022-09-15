@@ -23,4 +23,15 @@ describe("ActionButton", () => {
     const button = wrapper.find("button");
     expect(button.classes("primary")).toBe(true);
   });
+
+  it("applies one of several styles to button", () => {
+    const wrapper = mount(ActionButton, {
+      props: {
+        text: "I'm so clickable",
+        type: "secondary",
+      },
+    });
+    const button = wrapper.find("button");
+    expect(button.classes("secondary")).toBe(true);
+  });
 });
